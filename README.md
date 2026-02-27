@@ -8,3 +8,5 @@ Day2--23.02.2026: Variables and Data Types (variables, strings, operations, type
 Day3--24.02.2026: Lists (creation, indexing, modification, sorting, length)
 
 Day4--26.02.2026: Working with Lists and Tuples (looping, range, list comprehension, slicing, copying, tuples)
+
+Day5--27.02.2026：If-else and a small self-designed program
