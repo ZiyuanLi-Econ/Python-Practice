@@ -9,7 +9,7 @@ Day3--24.02.2026: Lists (creation, indexing, modification, sorting, length)
 
 Day4--26.02.2026: Working with Lists and Tuples (looping, range, list comprehension, slicing, copying, tuples)
 
-Day5--27.02.2026: If-else and a small self-designed program
+Day5--27.02.2026: If-Else and a small self-designed program
 
 Day6--28.02.2026: Review
 
