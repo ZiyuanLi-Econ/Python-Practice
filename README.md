@@ -12,3 +12,5 @@ Day4--26.02.2026: Working with Lists and Tuples (looping, range, list comprehens
 Day5--27.02.2026: If-else and a small self-designed program
 
 Day6--28.02.2026: Review
+
+Day7--02.03.2026: Dictionary
