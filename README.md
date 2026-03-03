@@ -1,13 +1,13 @@
 # Python-Practice
 Record my daily Python practice code.
 
-Day1--22.02.2026: Setup and Fundamentals (installation, overview, basic definitions)
+Day1--22.02.2026: Setup and Fundamentals
 
-Day2--23.02.2026: Variables and Data Types (variables, strings, operations, type conversion)
+Day2--23.02.2026: Variables and Data Types 
 
-Day3--24.02.2026: Lists (creation, indexing, modification, sorting, length)
+Day3--24.02.2026: Lists 
 
-Day4--26.02.2026: Working with Lists and Tuples (looping, range, list comprehension, slicing, copying, tuples)
+Day4--26.02.2026: Working with Lists and Tuples 
 
 Day5--27.02.2026: If-Else and a small self-designed program
 
