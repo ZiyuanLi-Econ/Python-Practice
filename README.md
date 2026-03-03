@@ -14,3 +14,5 @@ Day5--27.02.2026: If-Else and a small self-designed program
 Day6--28.02.2026: Review
 
 Day7--02.03.2026: Dictionary
+
+Day8--03.03.2026: Dictionary
