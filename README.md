@@ -20,3 +20,5 @@ Day08--03.03.2026: Dictionary
 Day09--04.03.2026: While
 
 Day10--09.03.2026: While
+
+Day11--10.03.2026: def
