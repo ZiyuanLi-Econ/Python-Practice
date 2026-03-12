@@ -38,3 +38,17 @@ Day09–Day10 (04–09.03.2026): While
 Day11–Day12 (10–11.03.2026): Functions (def)
 
 Day13 – 12.03.2026: Numpy
+
+
+| Day | Date | Topic |
+|----|----|----|
+| Day01 | 22.02.2026 | Setup & Fundamentals |
+| Day02 | 23.02.2026 | Variables & Data Types |
+| Day03 | 24.02.2026 | Lists |
+| Day04 | 26.02.2026 | Lists & Tuples |
+| Day05 | 27.02.2026 | If-Else + Small Program |
+| Day06 | 28.02.2026 | Review |
+| Day07–08 | 02–03.03.2026 | Dictionary |
+| Day09–10 | 04–09.03.2026 | While Loop |
+| Day11–12 | 10–11.03.2026 | Functions (`def`) |
+| Day13 | 12.03.2026 | NumPy |
