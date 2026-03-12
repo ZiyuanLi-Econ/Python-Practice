@@ -14,13 +14,12 @@ Day05--27.02.2026: If-Else and a small self-designed program
 Day06--28.02.2026: Review
 
 Day07--02.03.2026: Dictionary
-
 Day08--03.03.2026: Dictionary
 
 Day09--04.03.2026: While
-
 Day10--09.03.2026: While
 
 Day11--10.03.2026: def
-
 Day12--11.03.2026: def
+
+Day13--12.03.2026：Numpy
