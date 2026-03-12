@@ -1,3 +1,7 @@
+# Python Practice
+
+This repository records my daily Python learning and practice.
+
 | Day | Date | Topic |
 |:---|:------|:------|
 | 01 | 22.02.2026 | Setup + Fundamentals |
