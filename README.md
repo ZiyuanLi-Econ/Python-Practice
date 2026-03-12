@@ -1,54 +1,11 @@
-# Python-Practice
-Record my daily Python practice code.
-
-Day01--22.02.2026: Setup and Fundamentals
-
-Day02--23.02.2026: Variables and Data Types 
-
-Day03--24.02.2026: Lists 
-
-Day04--26.02.2026: Working with Lists and Tuples 
-
-Day05--27.02.2026: If-Else and a small self-designed program
-
-Day06--28.02.2026: Review
-
-Day07-08--02.03.2026 / Day08--03.03.2026: Dictionary
-Day09--04.03.2026: While
-Day10--09.03.2026: While
-
-Day11--10.03.2026: def
-Day12--11.03.2026: def
-
-Day13--12.03.2026：Numpy
-
-
-
-
-
-Day01 – 22.02.2026: Setup and Fundamentals  
-Day02 – 23.02.2026: Variables and Data Types  
-Day03 – 24.02.2026: Lists  
-Day04 – 26.02.2026: Working with Lists and Tuples  
-Day05 – 27.02.2026: If-Else and a small self-designed program  
-Day06 – 28.02.2026: Review  
-
-Day07–Day08 (02–03.03.2026): Dictionary  
-Day09–Day10 (04–09.03.2026): While  
-Day11–Day12 (10–11.03.2026): Functions (def)
-
-Day13 – 12.03.2026: Numpy
-
-
 | Day | Date | Topic |
-|----|----|----|
-| Day01 | 22.02.2026 | Setup & Fundamentals |
-| Day02 | 23.02.2026 | Variables & Data Types |
-| Day03 | 24.02.2026 | Lists |
-| Day04 | 26.02.2026 | Lists & Tuples |
-| Day05 | 27.02.2026 | If-Else + Small Program |
-| Day06 | 28.02.2026 | Review |
-| Day07–08 | 02–03.03.2026 | Dictionary |
-| Day09–10 | 04–09.03.2026 | While Loop |
-| Day11–12 | 10–11.03.2026 | Functions (`def`) |
-| Day13 | 12.03.2026 | NumPy |
+|:---|:------|:------|
+| 01 | 22.02.2026 | Setup & Fundamentals |
+| 02 | 23.02.2026 | Variables & Data Types |
+| 03–04 | 24–26.02.2026 | Lists & Tuples |
+| 05 | 27.02.2026 | If-Else + Small Program |
+| 06 | 28.02.2026 | Review |
+| 07–08 | 02–03.03.2026 | Dictionary |
+| 09–10 | 04–09.03.2026 | While Loop |
+| 11–12 | 10–11.03.2026 | Functions (`def`) |
+| 13 | 12.03.2026 | NumPy |
