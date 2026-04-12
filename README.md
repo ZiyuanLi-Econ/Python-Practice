@@ -14,3 +14,6 @@ This repository records my daily Python learning and practice.
 | 11–12 | 10–11.03.2026 | Functions  |
 | 13–14 | 12/17.03.2026 | NumPy |
 | 15-16 | 18-19.22-.03.2026 | Pandas |
+
+23-25 matplot
+26 seanbon
