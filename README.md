@@ -15,3 +15,4 @@ This repository records my daily Python learning and practice.
 | 15–22   | 18–31.03.2026       | Pandas                        |
 | 23–25   | 08–12.04.2026       | Matplotlib                    |
 | 26–28   | 13–14.04.2026       | Seaborn                       |
+| 29      | 18.04.2026          | Regression                    |
