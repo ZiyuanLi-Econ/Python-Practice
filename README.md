@@ -4,9 +4,10 @@ This repository records my daily Python learning and practice.
 
 | Day     | Date                | Topic                         |
 |---------|---------------------|-------------------------------|
-| 01      | 22.02.2026          | Setup + Fundamentals          |
-| 02      | 23.02.2026          | Variables + Data Types        |
-| 03–04   | 24–26.02.2026       | Lists + Tuples                |
+| 01      | 22.02.2026          | Fundamentals                  |
+| 02      | 23.02.2026          | Data Types                    |
+| 03      | 24–25.02.2026       | Lists                         |
+| 04      | 26.02.2026          | Tuples                        |
 | 05-06   | 27-28.02.2026       | If-Else + Small Program       |
 | 07–08   | 02–03.03.2026       | Dictionary                    |
 | 09–10   | 04–09.03.2026       | While Loop                    |
