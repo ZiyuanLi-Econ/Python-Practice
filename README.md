@@ -17,4 +17,4 @@ This repository records my daily Python learning and practice.
 | 23–25 | 08–12.04.2026     | Matplotlib              |
 | 26–28 | 13–14.04.2026     | Seaborn                 |
 | 29    | 18.04.2026        | Regression              |
-| 30–31 | 19–20.04.2026     | Simulation              |
+| 30–32 | 19–24.04.2026     | Simulation              |
