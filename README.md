@@ -18,3 +18,4 @@ This repository records my daily Python learning and practice.
 | 26–28 | 13–14.04.2026     | Seaborn                 |
 | 29    | 18.04.2026        | Regression              |
 | 30–32 | 19–24.04.2026     | Simulation              |
+| 33    | 25.04.2026        | Optimization            |
