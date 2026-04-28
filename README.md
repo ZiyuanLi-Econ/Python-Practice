@@ -19,3 +19,4 @@ This repository records my daily Python learning and practice.
 | 29    | 18.04.2026        | Regression              |
 | 30–32 | 19–24.04.2026     | Simulation              |
 | 33–34 | 25–26.04.2026     | Optimization            |
+| 35    | 28.04.2026        | Likelihood              |
