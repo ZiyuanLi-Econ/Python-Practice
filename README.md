@@ -22,3 +22,4 @@ This repository records my daily Python learning and practice.
 | 35–39 | 28–04.05.2026     | Likelihood              |
 | 40–44 | 05–19.05.2026     | Moments                 |
 | 23.05–23.06.2026          | Monte Carlo Seminar     |
+| 45    | 25.06.2026        | Program                 |
