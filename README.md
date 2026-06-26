@@ -21,5 +21,5 @@ This repository records my daily Python learning and practice.
 | 33–34 | 25–26.04.2026     | Optimization            |
 | 35–39 | 28–04.05.2026     | Likelihood              |
 | 40–44 | 05–19.05.2026     | Moments                 |
-| 23.05–23.06.2026          | Monte Carlo Seminar     |
+| N/A   | 23.05–23.06.2026  | Monte Carlo Seminar; no separate Python practice during the seminar |
 | 45    | 25.06.2026        | Program                 |
