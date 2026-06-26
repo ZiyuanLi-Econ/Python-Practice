@@ -2,6 +2,8 @@
 
 This repository records my daily Python learning and practice.
 
+It also includes Monte Carlo practice when the work is implemented as Python practice. Completed standalone projects will be organized separately later, for example as Python programs or Monte Carlo programs.
+
 | Day   | Date              | Topic                   |
 |-------|-------------------|-------------------------|
 | 01    | 22.02.2026        | Fundamentals            |
@@ -22,4 +24,4 @@ This repository records my daily Python learning and practice.
 | 35–39 | 28–04.05.2026     | Likelihood              |
 | 40–44 | 05–19.05.2026     | Moments                 |
 | N/A   | 23.05–23.06.2026  | Monte Carlo Seminar; no separate Python practice during the seminar |
-| 45    | 25.06.2026        | Program                 |
+| 45    | 25.06.2026        | Program 1: Hormuz       |
