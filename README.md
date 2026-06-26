@@ -2,7 +2,7 @@
 
 This repository records my daily Python learning and practice.
 
-It also includes Monte Carlo practice when the work is implemented as Python practice. Completed standalone projects will be organized separately later, for example as Python programs or Monte Carlo programs.
+It serves as a working notebook for Python exercises, small coding tasks, and Python-based methodological practice, including Monte Carlo exercises. Completed standalone projects are kept separately as program repositories.
 
 | Day   | Date              | Topic                   |
 |-------|-------------------|-------------------------|
