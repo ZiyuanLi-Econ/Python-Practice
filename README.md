@@ -23,4 +23,3 @@ This repository records my Python practice, including daily exercises, Monte Car
 | 40–44 | 05–19.05.2026     | Moments                 |
 | N/A   | 23.05–23.06.2026  | Monte Carlo Program 1: Robust Bias-Correction |
 | 45-   | 25.06.2026        | Python Program 1: Hormuz       |
-
