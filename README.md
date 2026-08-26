@@ -25,3 +25,4 @@ This repository records my Python practice, including daily exercises, Monte Car
 | 45–49 | 25.06–02.07.2026  | Python Program 1: Hormuz       |
 | N/A   | 24.08.2026        | Python Program 2        |
 | N/A   | 25.08.2026        | Python Program 2        |
+| N/A   | 26.08.2026        | Python Program 2        |
