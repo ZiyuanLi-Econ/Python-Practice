@@ -36,3 +36,4 @@ This repository records my Python practice, including daily exercises, Monte Car
 | N/A   | 24.09.2026        | Python Program 2        |
 | N/A   | 28.09.2026        | Python Program 2        |
 | N/A   | 30.09.2026        | Python Program 2        |
+| N/A   | 02.10.2026        | Python Program 2        |
